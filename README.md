@@ -1,1 +1,2 @@
-# Final-Project
+# Trivia Mania
+Made by: William Wydler
